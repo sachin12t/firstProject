@@ -1,0 +1,70 @@
+
+/*----------------------Start the Contact------------*/
+.contact{
+    min-height: 550px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+.contact-box{
+    height: 550px;
+    width: 40%;
+    border:1px solid #fff;
+    padding:20px 0px;
+}
+.contact-head{
+    height: 60px;
+    width: 100%;
+}
+.contact-head h1{
+    font-size:25px;
+}
+.line{
+    height: 2px;
+    width: 100%;
+    background-color:#e5e5e5;
+}
+.contact-input{
+    height: 70px;
+    width: 100%;
+    display: flex;
+    gap: 10px;
+}
+.input-box{
+    height: 70px;
+    width: 100%;
+    padding: 10px 0px;
+}
+label{
+    padding: 10px 0px;
+}
+.input{
+    height: 35px;
+    width: 100%;
+    border: 1px solid #e5e5e5;
+    padding-left: 5px;
+}
+.contact-message{
+    height: 300px;
+    width: 100%;
+    padding: 10px 0px;
+}
+.message{
+    height: 280px;
+    width: 100%;
+    border: 1px solid #e5e5e5;
+}
+.contact-button{
+    height: 70px;
+    width: 100%;
+    padding: 20px 0px;
+}
+.button{
+    height: 30px;
+    width: 10%;
+    border: none;
+}
+/*-------------------End the contact----------*/
